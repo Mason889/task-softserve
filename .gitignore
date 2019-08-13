@@ -2,3 +2,4 @@
 *.json
 .terraform
 ansible
+*.tfstate.backup
